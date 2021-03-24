@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#276E09"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/dealButton104"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="576dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton105"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="576dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton106"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="576dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton107"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="576dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton108"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="576dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton109"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="576dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton110"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="576dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton97"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="544dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton98"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="544dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton99"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="544dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton100"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="544dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton101"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="544dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton102"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="544dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton103"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="544dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton90"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="512dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton91"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="512dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton92"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="512dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton93"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="512dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton94"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="512dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton95"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="512dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton96"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="512dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton86"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="480dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton83"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="480dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton84"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="480dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton85"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="480dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton88"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="480dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton89"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="480dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton87"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="480dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton77"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="448dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/dealButton76"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="448dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton79"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="448dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton80"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="448dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton81"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="448dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton82"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="448dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton78"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="448dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton70"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="416dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton69"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="416dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton72"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="416dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/dealButton73"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="416dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton74"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="416dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton75"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="416dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton71"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="416dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton64"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="384dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton62"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="384dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton63"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="384dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton66"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="384dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton67"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="384dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton68"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="384dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton65"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="384dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton57"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="352dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton55"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="352dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton56"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="352dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton59"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="352dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton60"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="352dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/dealButton61"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="352dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton58"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="352dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton48"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="320dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton50"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="320dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton51"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="320dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton52"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="320dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton53"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="320dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton54"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="320dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton49"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="320dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton41"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="288dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton43"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="288dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton44"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="288dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton45"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="288dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton46"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="288dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton47"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="288dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton42"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="288dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton34"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="256dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton35"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="256dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton37"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="256dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton38"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="256dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton39"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="256dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton40"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="256dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton36"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="256dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton27"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="224dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton29"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="224dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton30"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="224dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton31"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="224dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton32"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="224dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton33"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="224dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton28"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="224dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton16"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="192dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="184dp" />
+
+    <Button
+        android:id="@+id/dealButton14"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="192dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dealButton15"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="192dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/dealButton18"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="192dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="296dp" />
+
+    <Button
+        android:id="@+id/dealButton19"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="192dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="352dp" />
+
+    <Button
+        android:id="@+id/dealButton17"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="192dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <Button
+        android:id="@+id/dealButton12"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="160dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toEndOf="@+id/dealButton11"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton11"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="160dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toEndOf="@+id/dealButton10"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton10"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="160dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toEndOf="@+id/dealButton9"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton8"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="160dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toEndOf="@+id/dealButton7"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton6"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="160dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton7"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="160dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toEndOf="@+id/dealButton6"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton13"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="192dp"
+        android:visibility="invisible"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton9"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="160dp"
+        app:backgroundTint="#0E94FF"
+        app:iconPadding="0dp"
+        app:layout_constraintStart_toEndOf="@+id/dealButton8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton3"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        app:backgroundTint="#0E94FF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton4"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        app:backgroundTint="#0E94FF"
+        app:layout_constraintStart_toEndOf="@+id/dealButton3"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton5"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        app:backgroundTint="#0E94FF"
+        app:layout_constraintStart_toEndOf="@+id/dealButton2"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton2"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        app:backgroundTint="#0E94FF"
+        app:layout_constraintStart_toEndOf="@+id/dealButton4"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dealButton"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        app:backgroundTint="#0E94FF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
