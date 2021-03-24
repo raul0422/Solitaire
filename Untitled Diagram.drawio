@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T22:54:17.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0vmr1bb2DWSXlY-xkTOg" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T23:02:41.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="F9iMD5qjqjJhWp6CuvkK" version="14.5.1" type="github">
   <diagram id="rTNtYrn7hHBPd-B_lGoH" name="Page-1">
-    <mxGraphModel dx="1791" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,14 +27,34 @@
         <mxCell id="QM8wQPkqBQmamn_CLQ5U-7" value="New Game Starts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QM8wQPkqBQmamn_CLQ5U-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QM8wQPkqBQmamn_CLQ5U-9" target="QM8wQPkqBQmamn_CLQ5U-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QM8wQPkqBQmamn_CLQ5U-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QM8wQPkqBQmamn_CLQ5U-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QM8wQPkqBQmamn_CLQ5U-9" value="Continue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QM8wQPkqBQmamn_CLQ5U-10" value="Cards dealt&lt;br&gt;Awaiting user input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="390" width="120" height="80" as="geometry" />
+        <mxCell id="QM8wQPkqBQmamn_CLQ5U-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QM8wQPkqBQmamn_CLQ5U-15" value="Cards Dealt&lt;br&gt;Awaiting user input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QM8wQPkqBQmamn_CLQ5U-16" value="User Deals from deck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QM8wQPkqBQmamn_CLQ5U-17" value="User moves a card already in the field&lt;br&gt;(without flipping a card)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QM8wQPkqBQmamn_CLQ5U-18" value="User moves a card from field to safety area (top left)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QM8wQPkqBQmamn_CLQ5U-19" value="User moves a card already in the field&lt;br&gt;(flips a card in doing so)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QM8wQPkqBQmamn_CLQ5U-20" value="User moves a card from safety area (top left) to field" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
